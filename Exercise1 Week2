@@ -1,0 +1,19 @@
+package exercise1;
+
+public class OneDayCampusLife {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("Every morning I wake up at 8:00am.");
+		System.out.println("After that, I'll brush my teeth and tidy up myself");
+		System.out.println("Next, I have my breakfast.");
+		System.out.println("Sometimes I'll help my mother to do the house chores.");
+		System.out.println("Then i'll prepare for my lectures");
+		System.out.println("I'm having class from 11:30am to 5:30pm during Monday and Thursday.");
+		System.out.println("After class, I'll take a nap and then have a bath");
+		System.out.println("I'll be having dinner with family members around 7:00pm.");
+		System.out.println("After dinner, I'll have a practice on programming for around 2 hours.");
+		System.out.println("I go to bed around 11pm everyday");
+	}
+
+}
